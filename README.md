@@ -1,19 +1,8 @@
-# 👋 Olá, eu sou Davi Froemming!
+# Olá, eu sou Davi Froemming!
 
-🎓 Estudante de **Sistemas para Internet na UFSM**
+🎓 Estudante de **Sistemas para Internet na UFSM** 
+
 💻 Interessado em **Desenvolvimento Web e Backend**
-🚀 Atualmente aprimorando meus conhecimentos em **Java, Spring, PHP e Banco de Dados**
-
----
-
-## 🧑‍💻 Sobre mim
-
-Sou estudante de Sistemas para Internet e gosto de transformar ideias em aplicações funcionais.
-
-Durante minha formação, venho desenvolvendo projetos acadêmicos e pessoais envolvendo desenvolvimento web, programação orientada a objetos, bancos de dados e arquitetura de aplicações.
-
-Atualmente, meu foco está em evoluir principalmente no desenvolvimento **backend**, com interesse em **Java e Spring Boot**, sem deixar de explorar outras tecnologias do desenvolvimento web.
-
 ---
 
 ## 🛠️ Tecnologias
@@ -43,30 +32,6 @@ Atualmente, meu foco está em evoluir principalmente no desenvolvimento **backen
 * 🔗 APIs REST
 * 🌐 Desenvolvimento Web
 * 🏗️ Arquitetura e organização de aplicações
-
----
-
-## 🚀 Projetos
-
-Alguns dos projetos disponíveis no meu GitHub:
-
-### 🏫 Instituto
-
-Projeto desenvolvido utilizando **PHP**, relacionado ao desenvolvimento de aplicações web.
-
-### ☕ SPI-UFSM
-
-Projeto acadêmico desenvolvido durante minha formação em **Sistemas para Internet**.
-
-### 💻 Trabalho Final POO Web
-
-Projeto desenvolvido para a disciplina de **Programação Orientada a Objetos para Web**, utilizando Java.
-
-### 📂 Projetos Pessoais
-
-Repositório destinado aos meus projetos e experimentos pessoais.
-
-> Estou constantemente adicionando novos projetos e aprimorando os existentes.
 
 ---
 
