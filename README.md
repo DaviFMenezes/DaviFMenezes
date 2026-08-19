@@ -37,12 +37,14 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=DaviFMenezes\&theme=default\&hide_border=false\&include_all_commits=false\&count_private=false)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=DaviFMenezes&theme=default&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=DaviFMenezes&theme=default&hide_border=false"/>
+</div>
 
-![](https://streak-stats.demolab.com/?user=DaviFMenezes\&theme=default\&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DaviFMenezes\&theme=default\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaviFMenezes&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 ---
 
 ## 📫 Contato
